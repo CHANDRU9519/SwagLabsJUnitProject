@@ -198,7 +198,8 @@ public class TestScriptJunit {
 		base.hold(5000);
 		
 		base.close();
-		
+	
+		System.out.println("QA");
 	}
 	
 	
