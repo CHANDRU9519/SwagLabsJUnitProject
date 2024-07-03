@@ -199,6 +199,8 @@ public class TestScriptJunit {
 		
 		base.close();
 		
+		System.out.println("Bye Bye");
+		
 	}
 	
 	
